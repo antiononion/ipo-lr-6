@@ -1,3 +1,4 @@
+# Милашевский 88 тп
 #СОЗДАЕМ СПИСОК
 lizt = ["astra","melanie","doratie","bethanie","georg","salamon"]
 #СОЗДАЕМ ПЕРЕМЕННУЮ ДЛЯ ЦИКЛА
